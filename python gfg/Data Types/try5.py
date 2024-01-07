@@ -1,0 +1,10 @@
+# Creating a Nested Dictionary
+# as shown in the below image
+Dict = {1: 'Geeks', 2: 'For',
+		3: {'A': 'Welcome', 'B': 'To', 'C': 'Geeks'}}
+
+print(Dict)
+print(Dict.get(1))
+print(Dict.get(2))
+print(Dict.get(3))
+print(Dict.get(4, 'not found'))
