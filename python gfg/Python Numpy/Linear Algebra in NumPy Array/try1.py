@@ -23,14 +23,14 @@ print("\nMatrix A raised to power 3:\n",
 arr = np.array([[1, -2j], [2j, 5]])
 print('array -- ', arr)
 
-# eigen value
+# eigen value and eigen vector
 c, d = np.linalg.eigh(arr)
 print('eigen value -- ', c)
-print('eigen value -- ', d)
+print('eigen vector -- ', d)
 
 arr = np.diag((1,2,3))
 print('array -- ', arr)
 
 c, d = np.linalg.eig(arr)
 print('eigen value -- ', c)
-print('eigen value -- ', d)
+print('eigen vector -- ', d)
