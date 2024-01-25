@@ -1,0 +1,16 @@
+E:\ue\c#\first1\bin\Debug\net5.0\first1.exe
+E:\ue\c#\first1\bin\Debug\net5.0\first1.deps.json
+E:\ue\c#\first1\bin\Debug\net5.0\first1.runtimeconfig.json
+E:\ue\c#\first1\bin\Debug\net5.0\first1.runtimeconfig.dev.json
+E:\ue\c#\first1\bin\Debug\net5.0\first1.dll
+E:\ue\c#\first1\bin\Debug\net5.0\ref\first1.dll
+E:\ue\c#\first1\bin\Debug\net5.0\first1.pdb
+E:\ue\c#\first1\obj\Debug\net5.0\first1.csprojAssemblyReference.cache
+E:\ue\c#\first1\obj\Debug\net5.0\first1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ue\c#\first1\obj\Debug\net5.0\first1.AssemblyInfoInputs.cache
+E:\ue\c#\first1\obj\Debug\net5.0\first1.AssemblyInfo.cs
+E:\ue\c#\first1\obj\Debug\net5.0\first1.csproj.CoreCompileInputs.cache
+E:\ue\c#\first1\obj\Debug\net5.0\first1.dll
+E:\ue\c#\first1\obj\Debug\net5.0\ref\first1.dll
+E:\ue\c#\first1\obj\Debug\net5.0\first1.pdb
+E:\ue\c#\first1\obj\Debug\net5.0\first1.genruntimeconfig.cache
