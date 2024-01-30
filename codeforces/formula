@@ -1,0 +1,15 @@
+# -----------
+ceil() -  (abs(a-b)+2*c-1)//(2*c)
+
+# -------------
+--->> Calculate the maximum and minimum possible sum of elements in the permutation
+>> Calculate max_sum as the sum of the largest max_elements values from n
+max_sum = (n * max_elements) - (max_elements * (max_elements - 1) // 2)
+>> Calculate min_sum by summing the smallest min_elements values from n
+min_sum = min_elements * (min_elements + 1) // 2
+
+# ------------
+>> min_sum is the sum of integers from 1 to k, calculated as (k * (k + 1)) // 2
+>> max_sum is the sum of integers from n - k + 1 to n, calculated as (k * (2 * n - k + 1)) // 2
+
+#-------------
