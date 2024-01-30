@@ -1,0 +1,5 @@
+inp = lambda: input().lower()
+s1, s2 = inp(), inp()
+if s1==s2: print(0)
+elif s1<s2: print(-1)
+else: print(1)
