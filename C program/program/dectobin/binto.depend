@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578448660 source:f:\c program\zzzz\binto\main.c
+	<stdio.h>
+	<stdlib.h>
+
