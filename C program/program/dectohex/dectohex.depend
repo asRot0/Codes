@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578534117 source:f:\c program\program 0.7\dectohex\main.c
+	<stdio.h>
+	<stdlib.h>
+
