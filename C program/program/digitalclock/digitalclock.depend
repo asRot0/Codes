@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588840562 source:e:\ue\c program\program 0.7\digitalclock\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
