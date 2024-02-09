@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578022242 source:f:\c program\zzzz\givennumtriangel\main.c
+	<stdio.h>
+	<stdlib.h>
+
