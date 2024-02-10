@@ -29,8 +29,8 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
-
-## Git
+##
+<img src="images/git.svg" alt="Jack-O-Lantern" width="50" />
 
 <h1>Git: Your Version Control Partner</h1>
 <p>Git is a powerful and versatile version control system...</p>
@@ -47,4 +47,3 @@
 
 <a href="https://resources_for_learning_git">Start Your Git Journey Today!</a>
 
-**Note:** This is a basic example. You can further customize the design with CSS styles and additional HTML elements for a more polished look.
