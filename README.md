@@ -16,6 +16,8 @@
     <td align="center"><a href="Golang"><img src="images/go.svg" width="75px;" height="75px;" /><br /><b>Golang</b></a></td>
     <td align="center"><a href="https://github.com/asif7707/Python-projects"><img src="images/python.svg" width="75px;" height="75px;" /><br /><b>Python</b></a></td>
     <td align="center"><a href="#Git"><img src="images/git.png" width="75px;" height="75px;" /><br /><b>Git</b></a></td>
+    <td align="center"><a href="#Git"><img src="images/unity.svg" width="75px;" height="75px;" /><br /><b>Git</b></a></td>
+    <td align="center"><a href="#Git"><img src="images/unity.png" width="75px;" height="75px;" /><br /><b>Git</b></a></td>
 
   </tr>
   
@@ -29,13 +31,18 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
+****
+
+
 ## Git 
-<h1>Git: Your Version Control Partner</h1>
-<p>Git is a powerful and versatile version control system...</p>
-<h2>Key Features <a href="https://git-scm.com/"><img src="images/git.svg" alt="Jack-O-Lantern" width="100" /></a></h2>
+<p>Git is a powerful and versatile version control system (VCS) widely used in software development to track changes in code, manage different versions, and collaborate effectively.</p>
+<a href="https://git-scm.com/"><img src="images/git.svg" alt="Jack-O-Lantern" width="100" /></a>
+<h2>Key Features</h2>
 <ul>
   <li><strong>Version Control:</strong> Snapshots, Branching, History</li>
   <li><strong>Collaboration:</strong> Teamwork, Sharing, Distributed</li>
   <li><strong>Benefits:</strong> Improved Code Quality, Increased Productivity, Enhanced Security</li>
 </ul>
+
+
 
