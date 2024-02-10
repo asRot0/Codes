@@ -52,6 +52,7 @@ Git is a powerful and versatile version control system (VCS) widely used in soft
 
 GitHub is more than just a code repository; it's a vibrant platform where developers connect, collaborate, and build software together. Here's a glimpse into what makes it special:
 
+<img src="images/github.svg" alt="Jack-O-Lantern" width="50" />
 ### Key Features:
 
 * **Version Control:** Track changes, revert to previous versions, and work with branches seamlessly.
@@ -92,8 +93,7 @@ With its multifaceted offerings, GitHub serves as a catalyst for your coding end
 
 **Get Started Today!**
 
-> [<img src="images/github.svg" alt="Jack-O-Lantern" width="30" height="20" />
-GitHub](https://github.com/signup)
+> [GitHub](https://github.com/signup)
 
 #### Additional Resources:
 
