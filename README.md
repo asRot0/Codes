@@ -17,7 +17,7 @@
     <td align="center"><a href="https://github.com/asif7707/Python-projects"><img src="images/python.svg" width="75px;" height="75px;" /><br /><b>Python</b></a></td>
     <td align="center"><a href="#Git"><img src="images/git.png" width="75px;" height="75px;" /><br /><b>Git</b></a></td>
     <td align="center"><a href="https://github.com/asif7707/csharp-programming-for-Unity-Game-Development"><img src="images/unity.svg" width="75px;" height="75px;" /><br /><b>Unity</b></a></td>
-    <td align="center"><a href="/C#"><img src="images/c#.svg" width="75px;" height="75px;" /><br /><b>C#</b></a></td>
+    <td align="center"><a href="https://github.com/asif7707/Codes/tree/main/C%23"><img src="images/csharp.svg" width="75px;" height="75px;" /><br /><b>C#</b></a></td>
   </tr>
   
    <tr>
