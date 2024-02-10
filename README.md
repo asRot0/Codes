@@ -29,21 +29,13 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
-##
-<img src="images/git.svg" alt="Jack-O-Lantern" width="50" />
-
+## Git 
 <h1>Git: Your Version Control Partner</h1>
 <p>Git is a powerful and versatile version control system...</p>
-
-<h2>Key Features</h2>
+<h2>Key Features <a href="https://git-scm.com/"><img src="images/git.svg" alt="Jack-O-Lantern" width="100" /></a></h2>
 <ul>
   <li><strong>Version Control:</strong> Snapshots, Branching, History</li>
   <li><strong>Collaboration:</strong> Teamwork, Sharing, Distributed</li>
   <li><strong>Benefits:</strong> Improved Code Quality, Increased Productivity, Enhanced Security</li>
 </ul>
-
-<h2>Getting Started</h2>
-<p>Learning Git is a valuable investment. Explore online resources...</p>
-
-<a href="https://resources_for_learning_git">Start Your Git Journey Today!</a>
 
