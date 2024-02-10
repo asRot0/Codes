@@ -14,6 +14,8 @@
 <table>
   <tr>
     <td align="center"><a href="Golang"><img src="images/go.svg" width="75px;" height="75px;" /><br /><b>Golang</b></a></td>
+    <td align="center"><a href="https://github.com/asif7707/Python-projects"><img src="images/python.svg" width="75px;" height="75px;" /><br /><b>Python</b></a></td>
+
   </tr>
   
    <tr>
