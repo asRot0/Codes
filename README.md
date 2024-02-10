@@ -17,7 +17,7 @@
     <td align="center"><a href="https://github.com/asif7707/Python-projects"><img src="images/python.svg" width="75px;" height="75px;" /><br /><b>Python</b></a></td>
     <td align="center"><a href="#Git"><img src="images/git.png" width="75px;" height="75px;" /><br /><b>Git</b></a></td>
     <td align="center"><a href="https://github.com/asif7707/csharp-programming-for-Unity-Game-Development"><img src="images/unity.svg" width="75px;" height="75px;" /><br /><b>Unity</b></a></td>
-    <td align="center"><a href="C#"><img src="images/c++.svg" width="75px;" height="75px;" /><br /><b>C#</b></a></td>
+    <td align="center"><a href="/C#"><img src="images/c#.svg" width="75px;" height="75px;" /><br /><b>C#</b></a></td>
   </tr>
   
    <tr>
@@ -46,7 +46,7 @@ Git is a powerful and versatile version control system (VCS) widely used in soft
 * **Benefits:** Improved Code Quality, Increased Productivity, Enhanced Security
 
 ****
-> ## GitHub: Your Collaborative Code Sanctuary
+> ## GitHub
 
 **Unite, Create, Innovate:**
 
@@ -60,19 +60,19 @@ GitHub is more than just a code repository; it's a vibrant platform where develo
 * **Robust Security:** Benefit from industry-standard security features, data backups, and disaster recovery.
 * **Learning Hub:** Explore diverse projects, engage in insightful discussions, and continuously expand your coding knowledge.
 
-## For Individuals:
+### For Individuals:
 
 * **Build a Portfolio:** Showcase your expertise, demonstrate your coding prowess, and attract potential employers.
 * **Expand Your Knowledge:** Dive into different projects, discover new technologies, and stay updated with the latest trends.
 * **Contribute & Give Back:** Share your expertise in exciting open-source projects and make a tangible impact.
 
-## For Teams:
+### For Teams:
 
 * **Streamline Collaboration:** Work together efficiently, track progress, and manage code releases effectively.
 * **Enhanced Communication:** Discuss code, share ideas, and stay aligned using built-in communication tools.
 * **Secure Code Management:** Implement access controls, security measures, and ensure the integrity of your codebase.
 
-## Ready to Join the GitHub Community?
+### Ready to Join the GitHub Community?
 
 Create your free account today and unlock a world of possibilities:
 
@@ -80,13 +80,13 @@ Create your free account today and unlock a world of possibilities:
 * **Contribute to Existing Projects:** Find projects you're passionate about and lend your expertise.
 * **Connect with Other Developers:** Network, learn, and grow alongside a supportive community.
 
-## Beyond the Basics:
+### Beyond the Basics:
 
 * **GitHub Actions:** Automate tasks, build, test, and deploy your code efficiently.
 * **GitHub Pages:** Host your static websites directly on GitHub for effortless publishing.
 * **Packages & Registries:** Share reusable code modules and discover valuable resources.
 
-## Embrace the Power of GitHub:
+### Embrace the Power of GitHub:
 
 With its multifaceted offerings, GitHub serves as a catalyst for your coding endeavors, fueling individual growth and fostering exceptional teamwork. Dive into its depths, unleash your potential, and become a part of the thriving developer ecosystem.
 
@@ -94,8 +94,10 @@ With its multifaceted offerings, GitHub serves as a catalyst for your coding end
 
 > [GitHub](https://github.com/signup)
 
-## Additional Resources:
+#### Additional Resources:
 
 * [GitHub Documentation](https://docs.github.com/)
 * [GitHub Guides](https://guides.github.com/)
 * [GitHub Blog](https://github.blog/)
+
+****
