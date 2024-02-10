@@ -22,7 +22,7 @@
   
    <tr>
     <td align="center"><a href="https://github.com/asif7707/Codes/tree/main/Leetcode"><img src="images/leetcode.png" width="75px;" height="75px;" /><br /><b>LeetCode</b></a></td>
-    <td align="center"><a href="#GitHub"><img src="images/github.svg" width="75px;" height="75px;" /><br /><b>Github</b></a></td>
+    <td align="center"><a href="#GitHub"><img src="images/github-light.svg" width="75px;" height="75px;" /><br /><b>Github</b></a></td>
 
   </tr>
    
