@@ -92,7 +92,7 @@ With its multifaceted offerings, GitHub serves as a catalyst for your coding end
 
 **Get Started Today!**
 
-> [<img src="images/github.svg" alt="Jack-O-Lantern" width="30" height="10" />
+> [<img src="images/github.svg" alt="Jack-O-Lantern" width="30" height="20" />
 GitHub](https://github.com/signup)
 
 #### Additional Resources:
