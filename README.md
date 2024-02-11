@@ -52,6 +52,7 @@
 <img src="images/vscode.svg" width="80" />
 <img src="images/sublime.svg" width="80" />
 <img src="images/jetbrains.png" width="80" />
+<img src="images/jetbrains.svg" width="80" />
 <img src="images/notepad++.png" width="80" />
 <img src="images/atom.svg" width="80" />
 <img src="images/vs-studio.svg" width="80" />
