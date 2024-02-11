@@ -6,8 +6,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="50" />
 </div>
 
-<img src="images/smile.png" alt="Jack-O-Lantern" width="50" />
-
 ****
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
@@ -25,6 +23,9 @@
    <tr>
     <td align="center"><a href="https://github.com/asif7707/Codes/tree/main/Leetcode"><img src="images/leetcode.png" width="75px;" height="75px;" /><br /><b>LeetCode</b></a></td>
     <td align="center"><a href="#GitHub"><img src="images/github-light.svg" width="75px;" height="75px;" /><br /><b>Github</b></a></td>
+    <td align="center"><a href="#HackerRank"><img src="images/hackerrank.svg" width="75px;" height="75px;" /><br /><b>HackerRank</b></a></td>
+    <td align="center"><a href="#C++"><img src="images/c++.svg" width="75px;" height="75px;" /><br /><b>C++</b></a></td>
+    <td align="center"><a href="#codeforces"><img src="images/codeforces.svg" width="75px;" height="75px;" /><br /><b>Codeforces</b></a></td>
 
   </tr>
    
@@ -52,9 +53,10 @@ Git is a powerful and versatile version control system (VCS) widely used in soft
 
 **Unite, Create, Innovate:**
 
-GitHub is more than just a code repository; it's a vibrant platform where developers connect, collaborate, and build software together. Here's a glimpse into what makes it special:
+GitHub is more than just a code repository; it's a vibrant platform where developers connect, collaborate, and build software together. Here's a glimpse into what makes it special.
 
 <img src="images/github.svg" alt="Jack-O-Lantern" width="50" />
+
 ### Key Features:
 
 * **Version Control:** Track changes, revert to previous versions, and work with branches seamlessly.
