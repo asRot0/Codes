@@ -6,9 +6,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="50" />
 </div>
 
-<img src="images/pycharm.svg" width="100" />
-<img src="images/sublime.svg" width="100" />
-
 
 ****
 <!-- ALL-TOPICS-LIST:START -->
@@ -48,7 +45,18 @@
 
 ****
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="100" />
+<br>
+<img src="images/pycharm.svg" width="80" />
+<img src="images/vscode.svg" width="80" />
+<img src="images/sublime.svg" width="80" />
+<img src="images/vs-studio.svg" width="80" />
 
+</div>
+
+
+****
 > ## Git 
 Git is a powerful and versatile version control system (VCS) widely used in software development to track changes in code, manage different versions, and collaborate effectively.
 
