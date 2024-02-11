@@ -6,6 +6,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="50" />
 </div>
 
+<img src="images/smile.png" alt="Jack-O-Lantern" width="50" />
+
 ****
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
