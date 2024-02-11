@@ -26,7 +26,14 @@
     <td align="center"><a href="HackerRank"><img src="images/hackerrank.svg" width="75px;" height="75px;" /><br /><b>HackerRank</b></a></td>
     <td align="center"><a href="C++"><img src="images/c++.svg" width="75px;" height="75px;" /><br /><b>C++</b></a></td>
     <td align="center"><a href="codeforces"><img src="images/codeforces.svg" width="75px;" height="75px;" /><br /><b>Codeforces</b></a></td>
-
+  </tr>
+  
+   <tr>
+    <td align="center"><a href="C program"><img src="images/c.svg" width="75px;" height="75px;" /><br /><b>C</b></a></td>
+    <td align="center"><a href="python gfg/Python Numpy"><img src="images/numpy-1.svg" width="75px;" height="75px;" /><br /><b>Numpy</b></a></td>
+    <td align="center"><a href="python gfg/Python Pandas"><img src="images/Pandas_mark.svg" width="75px;" height="75px;" /><br /><b>Pandas</b></a></td>
+    <td align="center"><a href="Algorithms"><img src="images/algorithm.png" width="75px;" height="75px;" /><br /><b>Algorithm</b></a></td>
+    <td align="center"><a href="HackerRank/HackerRank Regex Solutions"><img src="images/regex.png" width="75px;" height="75px;" /><br /><b>Regex</b></a></td>
   </tr>
    
 </table>
