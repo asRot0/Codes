@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577932492 source:f:\c program\class prb\compotethesum\main.c
+	<stdio.h>
+	<stdlib.h>
+
