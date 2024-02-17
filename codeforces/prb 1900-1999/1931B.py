@@ -13,3 +13,22 @@ for _ in range(int(input())):
             break
     else:
         print('YES')
+
+
+
+'''
+for _ in range(int(input())):
+    n, a = int(input()), list(map(int, input().split()))
+
+    avg_water = sum(a) // n
+    temp_water = 0
+
+    for i in a:
+        if temp_water < 0:
+            print('NO')
+            break
+        if i != avg_water:
+            temp_water = temp_water + i - avg_water
+    else:
+        print('YES')
+'''
