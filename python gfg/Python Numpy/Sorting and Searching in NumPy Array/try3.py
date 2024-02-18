@@ -1,5 +1,10 @@
 import numpy as np
 
+a = np.array([[12, 15], [10, 1]])
+arr1 = np.sort(a, axis = 0)
+print ("Along first axis : \n", arr1)
+print('__ '*10)
+
 arr = np.arange(12).reshape(3, 4)
 print(arr, '--array')
 
