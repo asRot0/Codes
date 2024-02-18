@@ -1,6 +1,6 @@
 import numpy as np
 
-a = np.array([[12, 15], [10, 1]])
+a = np.array([[12, 15], [10, 11]])
 arr1 = np.sort(a, axis = 0)
 print ("Along first axis : \n", arr1)
 print('__ '*10)
