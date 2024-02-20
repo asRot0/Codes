@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593872864 source:e:\ue\c program\program 0.7\read_line2\main.c
+	<stdio.h>
+	<ctype.h>
+
