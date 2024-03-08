@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578976352 source:f:\c program\teayos\2darray\main.c
+	<stdio.h>
+	<stdlib.h>
+
