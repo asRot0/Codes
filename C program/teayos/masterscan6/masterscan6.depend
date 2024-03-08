@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586667619 source:e:\ue\c program\teayos\masterscan6\main.c
+	<stdio.h>
+	<stdlib.h>
+
