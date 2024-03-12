@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578019357 source:f:\c program\pxpy\greatershape\main.c
+	<stdio.h>
+	<stdlib.h>
+
