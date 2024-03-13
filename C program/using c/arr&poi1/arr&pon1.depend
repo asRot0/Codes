@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590764948 source:e:\ue\c program\using c\arr&pon1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
