@@ -1,4 +1,3 @@
-# Import pandas package
 import pandas as pd
 
 # Define a dictionary containing employee data
@@ -32,4 +31,3 @@ print('_'*20)
 # using .iloc[]
 print(df.iloc[0:2, 1:3])
 print('_'*20)
-
