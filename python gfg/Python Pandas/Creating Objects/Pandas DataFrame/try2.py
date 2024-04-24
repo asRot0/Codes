@@ -40,6 +40,19 @@ df = pd.DataFrame(dic)
 print(df)
 print('_'*13)
 
+# Two - dimensional list
+data = [['Geek1', 26, 'Scientist'],
+        ['Geek2', 31, 'Researcher'],
+        ['Geek3', 24, 'Engineer']]
+
+# Column names
+columns = ['Name', 'Age', 'Occupation']
+
+# Creating DataFrame using pd.DataFrame.from_dict()
+df = pd.DataFrame.from_dict(dict(zip(columns, zip(*data))))
+print(df)
+print('_'*13)
+
 # data in the form of list of tuples
 data = [('Peter', 18, 7),
         ('Riff', 15, 6),

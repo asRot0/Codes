@@ -1,4 +1,3 @@
-# importing pandas
 import pandas as pd
 
 # List of nested dictionary initialization
@@ -33,6 +32,10 @@ for data in list:
 
 # using data frame
 df = pd.DataFrame(rows)
+
+# Increment the index so that index
+# starts at 1 (0 by default)
+df.index += 1
 
 print(df)
 
