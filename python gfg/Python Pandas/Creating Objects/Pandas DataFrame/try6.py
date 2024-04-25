@@ -21,6 +21,6 @@ new_row = pd.DataFrame({'Name': 'Joe', 'Team': 'Boston', 'Number': 3,
                        index=[0])
 
 # simply concatenate both dataframes
-data = pd.concat([new_row, data]).reset_index(drop=True)  # drop=False
+data = pd.concat([new_row, data]).reset_index(drop=True)
 data.index += 1
 print(data.head())
