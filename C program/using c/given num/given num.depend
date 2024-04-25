@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591451360 source:e:\ue\c program\using c\given num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
