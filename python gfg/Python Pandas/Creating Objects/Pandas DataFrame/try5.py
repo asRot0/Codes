@@ -15,7 +15,17 @@ d4 = data.loc["Amir Johnson"]
 
 print(d1, d2, d3, d4, sep='\n\n\n')
 print('_'*30)
+
 print(data.loc[["Nerlens Noel", "Amir Johnson"]])
+print('_'*30)
+
+
+first = data["Age"]
+print(first)
+print('_'*30)
+
+row = data.iloc[3]
+print(row)
 print('_'*30)
 
 print(data.head(5))
