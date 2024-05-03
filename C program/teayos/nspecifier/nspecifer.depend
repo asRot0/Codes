@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586355028 source:e:\ue\c program\teayos\nspecifer\main.c
+	<stdio.h>
+	<stdlib.h>
+
