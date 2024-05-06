@@ -14,3 +14,6 @@ print('_'*20)
 condition2 = data['Age'] > 24
 data.where(condition1 & condition2, inplace=True)
 print(data.head())
+
+data.mask(data.isna(), 0, inplace=True)
+print(data.head())
