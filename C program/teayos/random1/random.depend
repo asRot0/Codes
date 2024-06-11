@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577334753 source:f:\c program\teayos\random\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
