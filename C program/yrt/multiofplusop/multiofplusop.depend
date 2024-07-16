@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577934432 source:f:\c program\yrt\multiofplusop\main.c
+	<stdio.h>
+	<stdlib.h>
+
