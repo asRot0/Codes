@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580130989 source:f:\c program\zzzz\kuj\main.c
+	<stdio.h>
+	<stdlib.h>
+
