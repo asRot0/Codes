@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576867485 source:f:\c program\slprb\digitalclock\main.c
+	<stdio.h>
+	<conio.h>
+

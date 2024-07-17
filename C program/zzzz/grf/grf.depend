@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580388724 source:f:\c program\zzzz\grf\main.c
+	<stdio.h>
+	<stdlib.h>
+

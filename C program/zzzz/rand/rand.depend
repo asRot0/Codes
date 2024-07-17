@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586354413 source:e:\ue\c program\zzzz\rand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
