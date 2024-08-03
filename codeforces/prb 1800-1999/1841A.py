@@ -1,0 +1,1 @@
+for n in [*open(0)][1:]:print(['Bob', 'Alice'][int(n)>4])

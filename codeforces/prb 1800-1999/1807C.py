@@ -1,0 +1,1 @@
+for s in [*open(0)][2::2]:print('NO'if set(s[::2])&set(s[1::2]) else'YES')
