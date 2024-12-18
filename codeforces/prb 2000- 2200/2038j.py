@@ -11,4 +11,4 @@ for _ in range(int(input())):
             b = 0
             print('no')
     else:
-        p += a
+        p += int(a)
