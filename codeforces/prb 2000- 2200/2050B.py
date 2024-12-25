@@ -15,5 +15,4 @@ for _ in range(int(input())):
                 r = c - a[i-1]
                 a[i-1] += r
                 a[i+1] -= r
-        # print(a)
         print(['no','yes'][len(set(a))==1])
